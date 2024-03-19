@@ -27,8 +27,7 @@
 Next.js、Appollo Clientをインストールし、クローンした階層でコンパイルを行ってください。
  
 ```bash
-npx create-next-app
-npm i @apollo/client graphql graphql-tag
+npm ci
 npx next build
 ```
 
@@ -42,12 +41,12 @@ npx next start
 ```
  
 # Note
+ 実際のコードの動作は以下のURLで確認できます。
  
-注意点などがあれば書く
+http://testdd.yyfc.space:5922/
  
 # Author
  
-作成情報を列挙する
  
 * 渡邉俊樹
 * E-mail : tklinkstar@gmail.com
