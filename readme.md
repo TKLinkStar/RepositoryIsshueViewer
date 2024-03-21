@@ -22,7 +22,11 @@
 * tailwind
  
 # Installation
-.env.localの中のGITHUB=のあとにhttps://github.com/settings/tokens/newで発行したトークンを貼り付けてください。(公開リポジトリのみを検索する場合、特に権限の設定は必要ありません。)
+.env.localの中のGITHUB=のあとに
+
+https://github.com/settings/tokens/new
+
+で発行したトークンを貼り付けてください。(公開リポジトリのみを検索する場合、特に権限の設定は必要ありません。)
 
 Next.js、Appollo Clientをインストールし、クローンした階層でコンパイルを行ってください。
  
