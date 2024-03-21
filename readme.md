@@ -22,7 +22,8 @@
 * tailwind
  
 # Installation
-.env.localの中のGITHUB=のあとに
+.env.localの中のNEXT_PUBLIC_GITHUB=
+のあとに
 
 https://github.com/settings/tokens/new
 
